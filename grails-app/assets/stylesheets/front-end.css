@@ -1,0 +1,165 @@
+@font-face {
+    font-family: MainFont;
+    src: url('HindSiliguri-Regular.ttf');
+}
+
+* {
+    font-family: "sans-serif", MainFont ;
+    font-size: 1.025em;
+}
+/*
+div.menu hr.top {
+    margin-bottom: 0px;
+}
+
+div.menu hr.bottom {
+    margin-top: 0px;
+}
+
+div.menu {
+    font-weight: bold;
+}
+
+!*
+body{
+    margin-left: 50%;
+    margin-right: 50%;
+}*!
+!*
+body{
+    padding-left: 50%;
+    padding-right: 50%;
+}*!
+
+.img-responsive{
+    width:100%;
+    height: auto;
+}
+
+.last-footer {
+    padding-bottom: 10px;
+}
+
+.news-link {
+    color: black;
+}
+
+.advertisement{
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.fb_iframe_widget{
+    border: 1px solid green;
+    border-radius: 5px;
+}
+
+!*.header-section, .footer{
+    background-color: #f5f5f5;
+}
+.menu{
+    background-color: #f5f5f5;
+}*!
+
+.main-content{
+   !*background-color: #f5f5f5;*!
+    background-color: #f1f2f4;
+}
+
+.box-shadow{
+    background-color: #fff;
+
+    !* box-shadow *!
+  !*  -webkit-box-shadow: rgba(0,0,0,0.8) 0px 0 10px;
+    -moz-box-shadow: rgba(0,0,0,0.8) 0 0 10px;*!
+  !*  box-shadow: rgba(0,0,0,0.8) 0 0 10px;*!
+    -webkit-box-shadow: 0 4px 6px -3px #9c9c9c;
+    -moz-box-shadow: 0 4px 6px -3px #9c9c9c;
+    box-shadow: 0 4px 6px -3px #9c9c9c;
+}
+
+hr.top, hr.bottom{
+    margin:0px;
+    padding:0px;
+}
+
+.book-item{
+    border: 1px solid #f5f5f5;
+}
+!*.book-detail{
+
+}*!
+
+.book-item:hover{
+    border:1px solid #f5f5f5;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+}
+
+.last-footer{
+    background-color: black;
+    color: white;
+}
+
+.item-link{
+    color: black;
+}
+
+.item-link:hover{
+    background: #FFFAE3;
+}
+
+.book-detail-top{
+
+}
+
+.home-even{
+
+}
+.home-odd{
+    background-color: #f1f2f4;
+}
+
+
+@media (min-width: 1900px) {
+    .container {
+        width: 1800px;
+    }
+
+}
+
+img.bordered{
+    border-radius: 10px;
+}
+
+.list-author a{
+    display: block;
+    padding: 8px;
+}
+
+.list-author a:hover{
+    background-color: lightblue;
+}
+
+.page-loader-wrapper{
+    z-index:99999999;
+    position:fixed;
+    top:0;
+    left:0;
+    bottom:0;
+    right:0;
+    width:100%;
+    height:100%;
+    overflow:hidden;
+    background-color: lightblue;
+}
+.page-loader-wrapper p{
+    color:#fff
+}
+.page-loader-wrapper .loader{
+    position:relative;top:calc(40% - 30px)
+}
+
+.page-loader-wrapper{
+    text-align: center;
+}*/

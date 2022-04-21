@@ -1,0 +1,9 @@
+/*@font-face {
+    font-family: MainFont;
+    src: url('SolaimanLipi_20-04-07.ttf');
+}*/
+
+* {
+    font-family: "Calibri", MainFont ;
+    font-size: 1em;
+}
